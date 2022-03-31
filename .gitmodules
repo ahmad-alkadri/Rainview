@@ -1,0 +1,3 @@
+[submodule "pylocator"]
+	path = pylocator
+	url = https://github.com/ahmad-alkadri/pylocator.git
